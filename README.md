@@ -54,6 +54,10 @@ Now you can chat between client and server in real-time!
 
 Here’s an example of how the conversation looks:
 
+![Picture1](https://github.com/user-attachments/assets/08f6b2b7-b535-4abf-b427-0c05e535ef19)
+
+![Picture2](https://github.com/user-attachments/assets/5822450d-4319-4f01-a0f6-3f0431f828ec)
+
 ## 📌 Note
 - The communication is **one-to-one** and occurs **locally (localhost)**.
 - For multi-client support or GUI-based interaction, enhancements can be made in future versions.
@@ -61,3 +65,4 @@ Here’s an example of how the conversation looks:
 ## 👩‍💻 Author
 **Arshiya Shaikh**  
 📬 [GitHub](https://github.com/arshiyaa7)
+
